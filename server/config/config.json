@@ -1,0 +1,25 @@
+{
+  "development": {
+    "username": "root",
+    "password": "dragon1",
+    "database": "data",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "bf288ac5ff70b3",
+    "password": "ae3c2014",
+    "database": "heroku_85f2fe17a27358b",
+    "host": "us-cdbr-east-04.cleardb.com",
+    "dialect": "mysql"
+  }
+}
+
+
