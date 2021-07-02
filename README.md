@@ -31,7 +31,7 @@ This app is simple Forum
 <li>Delete  // If you want to delete posts or comments enter the your profile or post you commented.
 
 
-# Dependency
+# Reference
   <li>Material-UI(use like icon)   https://material-ui.com/getting-started/installation/
  <li> insomnia(use API test)   https://insomnia.rest/
   <li>MySQL Workbench   https://www.mysql.com/products/workbench/
