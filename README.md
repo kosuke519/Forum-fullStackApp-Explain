@@ -1,12 +1,19 @@
 # Forum
-This app is simple Forum
-https://hopeful-kalam-3b0394.netlify.app/
+This app is simple Forum  URL https://hopeful-kalam-3b0394.netlify.app/
+front is deployed Netlify and backend is heroku
+
 ## Dependency
 <li>React(creat react app)
 <li>node.js(express)
 <li>mysql
 <li>HTML,CSS
 
+  ## npm
+ <li> sequelise
+   <li>Formic
+     <li>Yup
+       <li>JWT(jsonwebtoken)
+  
 ## Usage
 
 <li>Signup  // * username must be at least 3 characters,password must be at least 8 characters.
@@ -21,5 +28,10 @@ https://hopeful-kalam-3b0394.netlify.app/
 <li>Delete  // If you want to delete posts or comments enter the your profile or post you commented.
 
 
-
+# Dependency
+  <li>Material-UI(use like icon)   https://material-ui.com/getting-started/installation/
+ <li> insomnia(use API test)   https://insomnia.rest/
+  <li>MySQL Workbench   https://www.mysql.com/products/workbench/
+    
+  
 # Please use this app!!
