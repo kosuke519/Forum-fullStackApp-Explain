@@ -1,6 +1,6 @@
 # Forum
 This app is simple Forum  URL https://hopeful-kalam-3b0394.netlify.app/
-front is deployed Netlify and backend is heroku
+<p>front is deployed Netlify and backend is heroku
 
 ## Dependency
 <li>React(creat react app)
