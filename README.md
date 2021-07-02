@@ -13,6 +13,8 @@ front is deployed Netlify and backend is heroku
    <li>Formic
      <li>Yup
        <li>JWT(jsonwebtoken)
+         <li>bcryptjs
+           <li>dotenv
   
 ## Usage
 
